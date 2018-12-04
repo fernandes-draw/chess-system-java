@@ -5,7 +5,6 @@ import boardgame.Piece;
 import boardgame.Position;
 import chess.pieces.King;
 import chess.pieces.Rook;
-import sun.tools.tree.PostIncExpression;
 
 public class ChessMatch {
 
